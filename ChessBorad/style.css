@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    border: 9px;
+}
+
+
+.chess{
+align-items: center;
+}
+
+table{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+td {
+    height: 80px;
+    width: 80px;
+    /* border: 2px solid rgb(0, 0, 0); */
+
+}
+
+.white {
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
+
+.white:hover{
+    color: red;
+}
+
+.black {
+    background-color: rgb(126, 125, 125);
+    font-size: 40px;
+    text-align: center;
+}
+
+.black:hover{
+    color: red;
+}
